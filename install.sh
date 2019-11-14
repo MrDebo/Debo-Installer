@@ -11,8 +11,8 @@ clear
 echo "Selamat Datang di Tools MR.DEBO" | lolcat
 sleep 5
 clear
-
-figlet -f slant "MR.DEBO" | lolcat
+cowsay -f eyes "WELCOME TO MY PROFIL" | lolcat 
+toilet -f standard "MR.DEBO" -F gay
 echo
 echo "Author    : MR.DEBO" | lolcat
 echo "Team      : BLACK EAGLE CYBER" | lolcat
