@@ -1,8 +1,10 @@
 #!/bin/bash
 #version 2.0
+#Please Look Me!
 #https://github.com/MrDebo
-# JANGAN DIRECORD
-# HARGAI AUTHOR DAH CAPEK CAPEK CODING!
+#JANGAN DIRECORD!
+#HARGAI AUTHOR DAH CAPEK CAPEK CODING!
+#RECORD?JAHANAM FOR YOU :)
 
 clear
 echo "Welcome..." | lolcat
@@ -706,7 +708,6 @@ pkg install git
 pkg install openssh
 git clone https://github.com/MrDebo/DeboCamera
 cd DeboCamera
-ls
 bash camera.sh
 echo "Cara Menggunakanya Bisa Hubungi WhatsApp =>> 081539279932"
 fi
