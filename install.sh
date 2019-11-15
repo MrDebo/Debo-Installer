@@ -2,9 +2,9 @@
 #version 2.0
 #Please Look Me!
 #https://github.com/MrDebo
-#JANGAN DIRECORD!
+#JANGAN DIRECODE!
 #HARGAI AUTHOR DAH CAPEK CAPEK CODING!
-#RECORD?JAHANAM FOR YOU :)
+#RECODE?JAHANAM FOR YOU :)
 
 clear
 echo "Welcome..." | lolcat
