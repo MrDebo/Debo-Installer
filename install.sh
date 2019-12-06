@@ -28,7 +28,7 @@ echo "Team      : BLACK EAGLE CYBER" | lolcat
 echo "Github    : https://github.com/MrDebo" | lolcat
 echo "Facebook  : https://www.facebook.com/mas.debo.02" | lolcat
 echo "WhatsApp  : 081539279932" | lolcat
-echo "Instagram : Andikadebo_02" | lolcat
+echo "Instagram : dikadebo02" | lolcat
 echo "<========================={0}===================>" | lolcat
 echo
 echo
