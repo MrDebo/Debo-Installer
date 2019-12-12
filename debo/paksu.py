@@ -1,6 +1,6 @@
 import os, sys
 
-print ("\033[1;32mMasukin UserName&Password")
+print ("\033[1;32mMasukin UserName&Password!")
 print ("\033[1;31;1mGa Tau Bisa Contact Mr.Debo =>> 081539279932")
 Username = 'MrDebo'
 Password = 'Intan'
