@@ -22,9 +22,9 @@ sleep 1
 echo $red
 clear
 sleep 3
-echo "Please Wait..."
+echo "."
 clear
-sleep 6
+sleep 3
 echo "Selamat Datang Di Tools MR.DEBO"
 sleep 5
 clear
