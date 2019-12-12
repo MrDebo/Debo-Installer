@@ -1,7 +1,7 @@
 import os, sys
 
 print ("\033[1;32mMasukin UserName&Password")
-print ("\033[1;31;1mGa Tau Bisa Contact Admin =>> 081539279932")
+print ("\033[1;31;1mGa Tau Bisa Contact Mr.Debo =>> 081539279932")
 Username = 'MrDebo'
 Password = 'Intan'
 
@@ -18,12 +18,12 @@ def main():
                         sys.exit()
 
                 else:
-                        print "\n\033[1;36mSorry Invalid Password !!!\033[00m"
-                        print "Hubungi Mr.Debo\n"
+                        print "\n\033[1;36mSorry Invalid Password!\033[00m"
+                        print "Contact Mr.Debo\n"
                         restart()
         else:
-                print "\n\033[1;36mSorry Invalid Username !!!\033[00m"
-                print "Hubungi Mr.Debo\n"
+                print "\n\033[1;36mSorry Invalid Username!\033[00m"
+                print "Contact Mr.Debo\n"
                 restart()
 
 try:
