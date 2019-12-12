@@ -24,7 +24,7 @@ clear
 sleep 3
 echo "Please Wait..."
 clear
-sleep 3
+sleep 6
 echo "Selamat Datang Di Tools MR.DEBO"
 sleep 5
 clear
