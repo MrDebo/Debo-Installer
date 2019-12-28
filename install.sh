@@ -29,7 +29,7 @@ echo "Selamat Datang Di Tools MR.DEBO"
 sleep 5
 clear
 echo $blue
-cat xsamp.txt
+cat hsamp.txt
 echo ""
 echo $red
 echo       "<=========================={24}====================>"
