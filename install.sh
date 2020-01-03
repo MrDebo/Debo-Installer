@@ -30,6 +30,16 @@ sleep 5
 clear
 echo $blue
 cat hsamp.txt
+echo INFO
+echo "----------------------------------------------------------------------->
+echo -n "User Aktif       : ";whoami
+echo "----------------------------------------------------------------------->
+echo -n "Waktu            : ";date
+echo "----------------------------------------------------------------------->
+echo -n "Handphone On     :";uptime
+echo "----------------------------------------------------------------------->
+echo -n "Lokasi Direktori : ";pwd
+echo "----------------------------------------------------------------------->
 echo ""
 echo $red
 echo       "<=========================={24}====================>"
@@ -109,10 +119,10 @@ echo $blue   "[63] Install 540 Dark Fly"
 echo $red    "[64] Install Encrypt sc Python"
 echo $white  "[65] Install Hack Facebook Target"
 echo $blue   "[66] Install Mencari Bug Website"
-echo $red    "[67] Install HiddenEye"
-echo $white  "[68] Install Wrapper Mpv"
-echo $blue   "[69] Install F-Soecity"
-echo $red    "[70] Install Tele Killer"
+echo $red    "[67] Install HiddenEye (VIP)"
+echo $white  "[68] Install Wrapper Mpv (VIP)"
+echo $blue   "[69] Install F-Soecity (VIP)"
+echo $red    "[70] Install Tele Killer (VIP)"
 echo $white  "[00] Exit"
 echo $blue   "Silahkan Pilih Tools Yang Mau Anda Install"
 echo "\033[31;1m"
