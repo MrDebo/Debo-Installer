@@ -1,1 +1,0 @@
-Paksu Itu Nama Panggilan Sayang Dari Cewe Gw :v
